@@ -1,0 +1,3 @@
+/home/qwe/Folder-qwe/Folder-Ubuntu2204/PRO-icloudCode-ALL-Study/lab2/cmake-build-debug/CMakeFiles/shell.dir
+/home/qwe/Folder-qwe/Folder-Ubuntu2204/PRO-icloudCode-ALL-Study/lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/qwe/Folder-qwe/Folder-Ubuntu2204/PRO-icloudCode-ALL-Study/lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
